@@ -1,0 +1,1 @@
+The "tdd calculator example.pdf" contains a simple TDD example that you can try yourself.  You'll be editing the calculatorSpec.js and calculator.js files.  You will need to open up the index.html file in your browser to see the result of the jasmine test runner.
